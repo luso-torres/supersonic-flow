@@ -63,25 +63,29 @@ In this work, two geometries of nozzles were investigated, being the first a con
 
 ## Flow Behavior for the Viscous Case:
 ### Diffuser
+#### Mach Number
 <img src="https://github.com/user-attachments/assets/b448ccc7-e39b-4cc7-a283-6882b3b4e283" alt="Diffuser Mach Number Viscous" width="800" height="400">
 
+#### Velocity Vector
 <img src="https://github.com/user-attachments/assets/7edfaaec-d43f-4b52-b135-656345b34d1f" alt="Diffuser Velocity Viscous" width="800" height="400">
 
 ### Nozzles
 
 #### Conical-Shape
 
-
+#### Mach Number
 <img src="https://github.com/user-attachments/assets/1f80da7b-3108-432c-a88c-c077b18c7535" alt="Conical Nozzle Mach Number Viscous" width="800" height="400">
 
+#### Velocity Vector
 <img src="https://github.com/user-attachments/assets/a4b91434-60ac-44fe-805c-26619fc3e8b8" alt="Conical Nozzle Velocity Vector Viscous" width="800" height="400">
 
 
 
 #### Bell-Shaped
+#### Mach Number
 <img src="https://github.com/user-attachments/assets/81be9de5-916f-4b90-827a-0b6435f6c2b8" alt="Bell-Shaped Nozzle Mach Number Viscous" width="800" height="400">
 
-
+#### Velocity Vector
 <img src="https://github.com/user-attachments/assets/407b630d-ff53-419e-b9ff-c79fa63e95c4" alt="Bell-Shaped Nozzle Velocity Vector Viscous" width="800" height="400">
 
 
