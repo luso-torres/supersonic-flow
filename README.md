@@ -1,6 +1,6 @@
 # Numerical Simulation of a Supersonic Diffuser and Nozzle
 
-This study aims to validate the optimal geometries derived from the analytical calculations of the diffuser and nozzle. 
+This study aims to validate the optimal geometries derived from the analytical calculations of the diffuser and nozzle presented in analytical_calculations.pdf. 
 
 Part I focuses on the diffuser, while Part II will assess the nozzles based on their inviscid and viscous behavior.
 
