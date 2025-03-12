@@ -26,7 +26,7 @@ The whole geometry is illustrated as follows:
 The initial configuration of the Diffuser has three stages of shockwaves:
 <img src="https://github.com/user-attachments/assets/d19b86e9-dd60-4e81-b9d0-d75ee2b4802a" alt="Diffuser" width="600" height="300">
 
-The analytical results obtained in the first work are shown below:
+The analytical results obtained in the analytical part are shown below:
 | Parameter                | 0 (∞)  | 1     | 2     | 3     |
 |--------------------------|---------|-------|-------|-------|
 | Mach Number              | 3.5     | 2.55  | 1.65  | 0.66  |
@@ -48,7 +48,7 @@ Based on the isentropic properties of air in this configuration, the following v
 <img src="https://github.com/user-attachments/assets/0145468f-e8dd-4951-9245-f5481b8f3089" alt="Diffuser Geometry" width="800" height="400">
 
 ## Nozzles
-In this work, two geometries of nozzles were investigated, being the first a conical-shaped nozzle, and in the second case a bell-shaped nozzle.
+In this part, two geometries of nozzles were investigated, being the first a conical-shaped nozzle, and in the second case a bell-shaped nozzle with dimensions derived from the analytical part.
 
 
 ### Conical-shaped
