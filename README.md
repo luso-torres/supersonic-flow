@@ -4,7 +4,7 @@ This study aims to validate the optimal geometries derived from the analytical c
 
 Part I focuses on the diffuser, while Part II will assess the nozzles based on their inviscid and viscous behavior.
 
-Some results are illustrated below. The full document contains information about the flow properties (Mach Number, Pressure, Temperature, Velocity and Density) along with graphs showing the change of these properties.
+The results for the Mach Number and Velocity Vector (viscous case) are illustrated below. The full document contains information about the flow properties (Mach Number, Pressure, Temperature, Velocity and Density) along with graphs showing the change of these properties.
 
 All simulations presented in this document were conducted using the tools provided by ANSYS, specifically the CFD application FLUENT.
 For full details of the project, checkout the reports containing the methods.
