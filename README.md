@@ -1,4 +1,4 @@
-# Numerical Simulation of a Supersonic Diffuser and Nozzle
+# Numerical Simulation of a Supersonic Diffuser and Nozzle on a Turbine
 
 This study aims to validate the optimal geometries derived from the analytical calculations of the diffuser and nozzle presented in analytical_calculations.pdf. 
 
