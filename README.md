@@ -1,6 +1,10 @@
 # Numerical Simulation of a Supersonic Diffuser and Nozzle
 
-This study aims to validate the optimal geometries derived from the analytical calculations of the diffuser and nozzle. Part I focuses on the diffuser, while Part II will assess the nozzles based on their inviscid and viscous behavior. Some results are illustrated below. The full document contains information about the flow properties (Mach Number, Pressure, Temperature, Velocity and Density) along with graphs showing the change of these properties.
+This study aims to validate the optimal geometries derived from the analytical calculations of the diffuser and nozzle. 
+
+Part I focuses on the diffuser, while Part II will assess the nozzles based on their inviscid and viscous behavior.
+
+Some results are illustrated below. The full document contains information about the flow properties (Mach Number, Pressure, Temperature, Velocity and Density) along with graphs showing the change of these properties.
 
 All simulations presented in this document were conducted using the tools provided by ANSYS, specifically the CFD application FLUENT.
 For full details of the project, checkout the reports containing the methods.
