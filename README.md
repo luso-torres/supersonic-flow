@@ -65,6 +65,8 @@ In this work, two geometries of nozzles were investigated, being the first a con
 ### Diffuser
 <img src="https://github.com/user-attachments/assets/b448ccc7-e39b-4cc7-a283-6882b3b4e283" alt="Diffuser Mach Number Viscous" width="800" height="400">
 
+<img src="https://github.com/user-attachments/assets/7edfaaec-d43f-4b52-b135-656345b34d1f" alt="Diffuser Velocity Viscous" width="800" height="400">
+
 ### Nozzles
 
 #### Conical-Shape
