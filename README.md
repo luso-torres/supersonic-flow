@@ -61,7 +61,7 @@ In this work, two geometries of nozzles were investigated, being the first a con
 
 
 
-## Flow Behavior for the viscous Design:
+## Flow Behavior for the Viscous Case:
 ### Diffuser
 <img src="https://github.com/user-attachments/assets/b448ccc7-e39b-4cc7-a283-6882b3b4e283" alt="Diffuser Mach Number Viscous" width="800" height="400">
 
